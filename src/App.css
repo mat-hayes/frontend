@@ -31,7 +31,8 @@ html, body {
 .buttons-container {
   display: flex;
   flex-direction: column;          /* Coloca los botones en columna */
-  gap: 100px;                      /* Espacio entre los botones */
+  gap: 100
+  px;                      /* Espacio entre los botones */
   justify-content: center;         /* Centra el contenido verticalmente dentro del contenedor */
   align-items: center;             /* Centra los botones horizontalmente */
   margin-top: 50px;
